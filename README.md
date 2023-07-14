@@ -1,5 +1,6 @@
 # dslist-spring
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/gabrielreisresende/dslist-spring/blob/main/LICENSE)
 ## Descrição
 Este projeto é uma API para listar e gerenciar jogos em listas, de acordo com a categoria de cada um. 
 Dessa forma, é possível buscar todos os jogos ou somente um e também filtrar por listas e buscar um único jogo pertencente à essa lista.
